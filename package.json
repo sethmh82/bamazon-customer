@@ -1,0 +1,29 @@
+{
+  "name": "bamazon-customer",
+  "version": "1.0.0",
+  "description": "Seth's bamazon store",
+  "main": "bamstore.js",
+  "dependencies": {
+    "accounting": "^0.4.1",
+    "inquirer": "^3.1.0",
+    "mysql": "^2.13.0",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node bamstore"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sethmh82/bamazon-customer.git"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "seth harden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sethmh82/bamazon-customer/issues"
+  },
+  "homepage": "https://github.com/sethmh82/bamazon-customer#readme"
+}
